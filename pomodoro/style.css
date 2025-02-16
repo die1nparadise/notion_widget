@@ -51,7 +51,7 @@ button:focus {
   background-color: rgb(217,170,119);
   padding: 20px;
   border-radius: 20px;
-  box-shadow: 3px 3px rgb(209, 164, 115) inset;
+  box-shadow: 3px 3px rgb(184, 141, 95) inset;
 }
 
 #display-controls {
@@ -66,11 +66,11 @@ button:focus {
   font-size: 25px;
   text-align: center;
   padding-top: 2px
-  background-color: rgb(217,180,175);
+  background-color: rgb(217,170,119);
   border-radius: 10px;
   height: 40px;
   flex: 2;
-  box-shadow: 3px 3px rgb(121, 145, 141) inset;
+  box-shadow: 3px 3px rgb(184, 141, 95) inset;
 }
 
 #timer-ssr {
@@ -102,7 +102,7 @@ button:focus {
 .session-container {
   text-align: center;
 /*   display: inline-block; */
-  border: 2px solid rgb(186,140,101);
+  border: 2px solid rgb(245,213,154);
   padding: 10px;
   border-radius: 10px;
   width: 48%;
