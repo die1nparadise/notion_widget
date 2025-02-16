@@ -66,11 +66,11 @@ button:focus {
   font-size: 25px;
   text-align: center;
   padding-top: 2px
-  background-color: rgb(217,170,119);
+  background-color: rgb(245,213,154);
   border-radius: 10px;
   height: 40px;
   flex: 2;
-  box-shadow: 3px 3px rgb(184, 141, 95) inset;
+  box-shadow: 3px 3px rgb(242, 194, 111) inset;
 }
 
 #timer-ssr {
