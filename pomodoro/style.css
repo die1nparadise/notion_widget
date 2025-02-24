@@ -102,7 +102,7 @@ button:focus {
 .session-container {
   text-align: center;
 /*   display: inline-block; */
-  border: 2px solid rgb(245,213,154);
+  border: 2px solid rgb(217,170,119);
   padding: 10px;
   border-radius: 10px;
   width: 48%;
